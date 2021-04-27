@@ -16,7 +16,7 @@
 
 ### Me on social networks:
 
-[linkedin]: https://www.linkedin.com/in/bexruz  
+[linkedin]: https://www.linkedin.com/in/bexruz-baxronov-159127202  
 [instagram]: https://www.instagram.com/baxronov_b_
 [facebook]: https://www.facebook.com/bexruz.baxronov.14
 [telegram]: https://t.me/bexruz_baxronov
