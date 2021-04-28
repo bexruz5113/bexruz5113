@@ -5,12 +5,16 @@
 ### Languages and Tools
 
 <img align="left" alt="HTML" width="26px" src = "https://user-images.githubusercontent.com/75378307/116276537-0fff6800-a79e-11eb-9b92-ee12977ba06c.png">
-<img align="left" alt="css" width="26px" src = "https://user-images.githubusercontent.com/75378307/116278338-d7608e00-a79f-11eb-9c73-0192f29a84df.png">
+<img align="left" alt="css" width="26px" src = "https://user-images.githubusercontent.com/75378307/116340390-87fa7c00-a7f8-11eb-9981-d02102dc3597.png">
 <img align="left" alt="sass" width="26px" src = "https://user-images.githubusercontent.com/75378307/116278399-e5161380-a79f-11eb-87d8-75315b703b8d.png">
-<img align="left" alt="bootstrap" width="26px" src="https://user-images.githubusercontent.com/75378307/116279637-35da3c00-a7a1-11eb-96e8-cd824a69c160.jpg">
+<img align="left" alt="bootstrap" width="26px" src="https://user-images.githubusercontent.com/75378307/116340338-74e7ac00-a7f8-11eb-86f9-3f2b1aa2d05d.png">
 <img align="left" alt="js" width="26px" src="https://user-images.githubusercontent.com/75378307/116279737-530f0a80-a7a1-11eb-87af-020c2ff65b64.png">
 <img align="left" alt="vue" width="26px" src="https://user-images.githubusercontent.com/75378307/116279805-67eb9e00-a7a1-11eb-905c-88ce04209990.png">
-<img align="left" alt="telwind" width="26px" src="https://user-images.githubusercontent.com/75378307/116279870-7f2a8b80-a7a1-11eb-9665-2e86e8ec6763.png">
+<img align="left" alt="telwind" width="26px" src="https://user-images.githubusercontent.com/75378307/116340242-48cc2b00-a7f8-11eb-9f1c-574b4a87d75f.png">
+
+
+
+
 <br/>
 <br/>
 
