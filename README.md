@@ -12,9 +12,6 @@
 <img align="left" alt="vue" width="26px" src="https://user-images.githubusercontent.com/75378307/116279805-67eb9e00-a7a1-11eb-905c-88ce04209990.png">
 <img align="left" alt="telwind" width="26px" src="https://user-images.githubusercontent.com/75378307/116340242-48cc2b00-a7f8-11eb-9f1c-574b4a87d75f.png">
 
-![css](https://user-images.githubusercontent.com/75378307/116340613-e1fb4180-a7f8-11eb-981c-145b4f4868eb.png)
-
-![bs4](https://user-images.githubusercontent.com/75378307/116340657-f5a6a800-a7f8-11eb-9a7c-a2823745675e.jpg)
 
 
 
