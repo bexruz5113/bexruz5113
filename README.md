@@ -1,6 +1,6 @@
-### Hello World 👋👋👋
+### Hi guys 👋
 
-### I am Bexruz Baxronov and I am a Frontend Developer
+### I'm Bexruz and I'm a Frontend Developer
 
 ### Languages and Tools
 
@@ -33,4 +33,4 @@
 <br/>
 
 
-### Happy Coding
+### Flying high with coding
